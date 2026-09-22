@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1789630708034,
+      "tag": "0000_serious_the_hand",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1789997847414,
+      "tag": "0001_puzzling_jack_power",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1789997928867,
+      "tag": "0002_parallel_mandroid",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1790073943029,
+      "tag": "0003_hot_wonder_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1790081143333,
+      "tag": "0004_giant_magik",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1790081826957,
+      "tag": "0005_modern_harry_osborn",
+      "breakpoints": true
+    }
+  ]
+}

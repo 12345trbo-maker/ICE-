@@ -1,0 +1,1 @@
+ALTER TABLE `attendance_requests` ADD `leaveTypeId` int;
